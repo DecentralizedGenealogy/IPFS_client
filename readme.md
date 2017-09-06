@@ -1,4 +1,4 @@
-This is a crude tree client based on the InterPlanetary File System underneath. Each file represetns a person, and each file is distributed across IPFS. Each person maintains references or links with other people.
+This is a crude tree client based on the InterPlanetary File System underneath. Each file represetns a person, and each file is distributed across [IPFS](https://ipfs.io/). Each person maintains references or links with other people.
 
 - Install IPFS (https://ipfs.io/docs/install/)
 - run: ipfs init
